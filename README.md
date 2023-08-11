@@ -1,16 +1,16 @@
 <h1>Welcome</h1>
 
-  <table style="background-color: #ffffff;">
-    <tr style="background-color: #000000; text-align: center; -webkit-text-fill-color: #ffffff;">
+  <table>
+    <tr>
       <td>I’m interested in ...</td>
     </tr>
-    <tr style="background-color: #000000; text-align: center; -webkit-text-fill-color: #ffffff;">
+    <tr>
       <td>I’m currently learning ...</td>
     </tr>
-    <tr style="background-color: #000000; text-align: center; -webkit-text-fill-color: #ffffff;"
-      <td>I’m looking to collaborate on ...</td>
+    <tr>
+      <td>I’m looking to collaborate on...</td>
     </tr>
-    <tr style="background-color: #000000; text-align: center; -webkit-text-fill-color: #ffffff;">
+    <tr>
       <td>How to reach me ...</td>
     </tr>
   </table>
